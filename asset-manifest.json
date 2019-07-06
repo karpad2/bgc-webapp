@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.11406f59.chunk.css",
-    "main.js": "/static/js/main.a1498905.chunk.js",
-    "main.js.map": "/static/js/main.a1498905.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.b41502e9.chunk.js": "/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.21fa42b19305d19a61c9035fe730e2f1.js": "/precache-manifest.21fa42b19305d19a61c9035fe730e2f1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.11406f59.chunk.css.map": "/static/css/main.11406f59.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/bgc-webapp/static/css/main.11406f59.chunk.css",
+    "main.js": "/bgc-webapp/static/js/main.6f23105d.chunk.js",
+    "main.js.map": "/bgc-webapp/static/js/main.6f23105d.chunk.js.map",
+    "runtime~main.js": "/bgc-webapp/static/js/runtime~main.a0c29ba6.js",
+    "runtime~main.js.map": "/bgc-webapp/static/js/runtime~main.a0c29ba6.js.map",
+    "static/js/2.b41502e9.chunk.js": "/bgc-webapp/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/bgc-webapp/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/bgc-webapp/index.html",
+    "precache-manifest.cdb58a4767d27acea519d831e43b38f8.js": "/bgc-webapp/precache-manifest.cdb58a4767d27acea519d831e43b38f8.js",
+    "service-worker.js": "/bgc-webapp/service-worker.js",
+    "static/css/main.11406f59.chunk.css.map": "/bgc-webapp/static/css/main.11406f59.chunk.css.map",
+    "static/media/logo.svg": "/bgc-webapp/static/media/logo.5d5d9eef.svg"
   }
 }
