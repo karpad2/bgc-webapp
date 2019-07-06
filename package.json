@@ -2,8 +2,10 @@
   "name": "bgc-webapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://karpad2.github.io/bgc-webapp",
   "dependencies": {
     "firebase": "^6.2.4",
+    "gh-pages": "^2.0.1",
     "node-sass": "^4.12.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -13,6 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
